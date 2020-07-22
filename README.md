@@ -1,4 +1,4 @@
-# MinimumTimeDistance-Leetcode-539
+# MinimumTimeDifference-Leetcode-539
 
 Leetcode Question 539 (Medium)
 
